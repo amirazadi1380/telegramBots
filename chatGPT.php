@@ -1,3 +1,5 @@
+"هههههههههههههههههههههههههههههههه"
+
 // <?php
 
 // define("BOT_TOKEN", "*********PRIVATE(use your own bot token from bot father)*********");
